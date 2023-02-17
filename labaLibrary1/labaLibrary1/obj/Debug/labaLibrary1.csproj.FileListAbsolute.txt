@@ -1,0 +1,5 @@
+C:\Users\maxi_\source\repos\labaLibrary1\labaLibrary1\bin\Debug\labaLibrary1.dll
+C:\Users\maxi_\source\repos\labaLibrary1\labaLibrary1\bin\Debug\labaLibrary1.pdb
+C:\Users\maxi_\source\repos\labaLibrary1\labaLibrary1\obj\Debug\labaLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\maxi_\source\repos\labaLibrary1\labaLibrary1\obj\Debug\labaLibrary1.dll
+C:\Users\maxi_\source\repos\labaLibrary1\labaLibrary1\obj\Debug\labaLibrary1.pdb

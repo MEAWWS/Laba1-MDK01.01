@@ -1,0 +1,2 @@
+C:\Users\maxi_\source\repos\Laba1\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+C:\Users\maxi_\source\repos\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
